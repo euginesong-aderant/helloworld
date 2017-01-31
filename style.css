@@ -1,1 +1,5 @@
-h1 {font-size : 100px;}
+/* Google map object */
+#map {
+    height : 100%;
+    width : 100%;
+}
